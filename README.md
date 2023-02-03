@@ -50,6 +50,8 @@ poetry run main [directory of the grid world .npy files]
 Follow the steps above to setup your environment. Make sure all of your dependencies
 have been installed properly. 
 
+Make sure the file `unit_testing.py` is in your HW project folder. You can download the repo again or use `git`.
+
 ### Step 2
 
 Download a good editor or IDE. We highly recommend PyCharm or VSCode. 
@@ -105,14 +107,14 @@ Next, open the `unit_testing.py` file. In the top right corner, press the play b
 
 **VSCode**
 
-First, find the interpreter button in the bottom right corner, and select the interpreter
+First, find the interpreter button in the bottom right corner, and select the interpreter. Make sure the language is set to Python. 
 
 <img src="./imgs/vs-code-interpreter-1.png" height="100">
 
 NOTE: VS Code might have already recognized your virtual environment and automatically selected the interpreter. If 
 you see the virtual environment name that you created for HW1, you are done with the setup process. 
 
-<img src="./imgs/vs-code-interpreter-2.png" height="200">
+<img src="./imgs/vs-code-interpreter-2.png" height="100">
 
 Once you click on the interpreter button, a menu will show up at the top, find and select the virtual environment. 
 
