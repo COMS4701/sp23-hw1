@@ -171,8 +171,8 @@ def main():
         return
 
     bfs, dfs = None, None
-    start_path = None
-    end_path = None
+    start_path = {"path": None}
+    end_path = {"path": None}
 
     world_dir = "worlds"
     world_id = 1
