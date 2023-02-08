@@ -124,7 +124,7 @@ Press the play button in the top right corner to run your code.
 
 ### Step 4 Interpreting Results
 
-Your unit testing results should look like the following. The script will test BFS, DFS, gradient ascent, and A* separately. 
-Recall that BFS and DFS are NOT guaranteed to return the optimal path. 
+Your unit testing results should look **similar** but not exactly like the following. The script will test BFS, DFS, gradient ascent, and A* separately. 
+Recall that DFS is NOT guaranteed to return the optimal path. 
 
 <img src="./imgs/Figure_1.png" height="500">
